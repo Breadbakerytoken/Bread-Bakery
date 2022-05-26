@@ -4,7 +4,7 @@
 
 Our goal is to create a meme token that is not an animal. Something that doesn't have INU or SHIB in it. So what do you take? BREAD of course!
 
-For more information visit our website xxxxxx
+For more information visit our website https://breadtoken.finance
 
 
 
@@ -40,9 +40,11 @@ For more information visit our website xxxxxx
 
 **Telegram:** https://t.me/breadbakerycommunity
 
-**Twitter:**
+**Twitter:** https://twitter.com/BREADbakerycoin
 
 **Github:** https://github.com/Breadbakerytoken
+
+**Reddit:** https://www.reddit.com/r/Bread_Bakery_BREAD/
 
 
 
