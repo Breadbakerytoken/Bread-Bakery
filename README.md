@@ -25,6 +25,8 @@ For more information visit our website xxxxxx
 
 **Total Supply:** 1.950.000.000.000
 
+**Decimals:** 9
+
 **Reflection:** 4 % to every holder
 
 **Liquidity:** 3 % is added to liquidity
