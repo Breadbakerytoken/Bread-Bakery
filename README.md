@@ -19,11 +19,11 @@ For more information visit our website xxxxxx
 
 **Platform:** Binance Smart Chain
 
-**Contract address:**
+**Contract address:** 0xAc8850C05b8D26BccAd9b3815C5B9D97b7d7af8D
 
-**Contract Link:**
+**Contract Link:** https://bscscan.com/token/0xac8850c05b8d26bccad9b3815c5b9d97b7d7af8d
 
-**Total Supply:**
+**Total Supply:** 1.950.000.000.000
 
 **Reflection:** 4 % to every holder
 
@@ -36,11 +36,11 @@ For more information visit our website xxxxxx
 
 ## Community
 
-**Telegram:**
+**Telegram:** https://t.me/breadbakerycommunity
 
 **Twitter:**
 
-**Github:**
+**Github:** https://github.com/Breadbakerytoken
 
 
 
