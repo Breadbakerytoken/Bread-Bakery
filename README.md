@@ -27,7 +27,7 @@ For more information visit our website xxxxxx
 
 **Reflection:** 4 % to every holder
 
-**Liquidity:** 2 % is added to liquidity
+**Liquidity:** 3 % is added to liquidity
   
 **Marketingpool:** 1 % for marketing
 
